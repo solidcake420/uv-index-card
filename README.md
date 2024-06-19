@@ -96,6 +96,7 @@ The following languages are supported:
 | German    | `de`       | v1.0.0    | [@t1gr0u](https://github.com/t1gr0u)                                                |
 | Hungarian | `hu`       | v1.2.1    | [@erelke](https://github.com/erelke)                                                |
 | Italian   | `it`       | v1.2.0    | [@SiriosDev](https://github.com/SiriosDev)                                          |
+| Polish    | `pl`       | v1.2.1    | [@SolidCake420](https://github.com/SolidCake420)                                    |
 | Portuguese| `pt`       | v1.2.0    | [@ViPeR5000](https://github.com/viper5000)                                          |
 | Swedish   | `sv`       | v1.2.1    | [@el97](https://github.com/el97)                                                    |
 
